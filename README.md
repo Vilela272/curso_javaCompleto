@@ -16,12 +16,13 @@
     <img src="https://i.ibb.co/MMj6t4M/mongodb.jpg">
 </h1>
 <h1 align="center">
-    <img src="https://i.ibb.co/42yDrTw/nodejs-2-562x3092x-op.png">
-</h1>
-<h1 align="center">
-    <img src="https://i.ibb.co/4sRQvFP/nodejs-logo.png">
-</h1>
-<h1 align="center">
     <img src="https://i.ibb.co/qyV0GD8/REST.png">
+</h1>
+
+<h1 align="center">
+    <img src="https://i.ibb.co/j62L9JM/mysql.png">
+</h1>
+<h1 align="center">
+    <img src="https://i.ibb.co/b2QRVhP/spring.png">
 </h1>
 ---
